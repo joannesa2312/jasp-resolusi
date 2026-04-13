@@ -1,0 +1,5 @@
+JASP RESOLUSI
+- konsisten mempelajari infrastructure
+- Konsisten memplajari penggunaan github
+- Konsisten mempelajari kubernetes
+- Konsisten mempelajari AI LLM
