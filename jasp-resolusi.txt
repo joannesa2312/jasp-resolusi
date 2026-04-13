@@ -3,3 +3,5 @@ JASP RESOLUSI
 - Konsisten memplajari penggunaan github
 - Konsisten mempelajari kubernetes
 - Konsisten mempelajari AI LLM
+- mempelajari CI / CD
+- mempelajari security
