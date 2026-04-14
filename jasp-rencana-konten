@@ -6,4 +6,6 @@ RENCANA KONTEN JASP
   * https://github.com/roboll/helmfile
 - helm plugin - helm plugin install --version=2.0.1 
   * https://github.com/dcasadevall/helm-secrets
-- 
+- Laravel
+- pyton
+- Grafana
