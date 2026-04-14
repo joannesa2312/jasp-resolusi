@@ -1,4 +1,8 @@
 RENCANA KONTEN JASP
 
 - helm
+  * https://helm.sh/docs/intro/install/
 - helmpfile
+  * https://github.com/roboll/helmfile
+- helm plugin
+  * https://github.com/dcasadevall/helm-secrets
